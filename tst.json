@@ -1,0 +1,59 @@
+[
+	{
+		"nome": "João Henrique",
+		"telefone": "7599237576",
+		"email": "joaohenrique22@hotmail.com",
+		"instagram": "https://instagram.com/joao_henrique",
+		"facebook": "https://facebook.com/joaohenrique",
+		"avatar_url": "https://i.imgur.com/UsvDWQ9.jpg"
+	},
+	{
+		"nome": "Letícia Carvalho",
+		"telefone": "7598135476",
+		"email": "leticiacarvalholet@hotmail.com",
+		"instagram": "https://instagram.com/leticia_carvalho",
+		"facebook": "https://facebook.com/leticia Carvalho",
+		"avatar_url": "https://www.leisureopportunities.co.uk/images/imagesX/HIGH824970_28114.jpg"
+	},
+	{
+		"nome": "Wesley Snaijder",
+		"telefone": "7582238876",
+		"email": "wesleysafadaarrocha@hotmail.com",
+		"instagram": "https://instagram.com/wesley_se",
+		"facebook": "https://facebook.com/wesley snajder",
+		"avatar_url": "https://i.imgur.com/KJqz9Lx.jpg"
+	},
+	{
+		"nome": "Marina Silva",
+		"telefone": "75991867654",
+		"email": "Marinasilva66@hotmail.com",
+		"instagram": "https://instagram.com/marina_silva",
+		"facebook": "https://facebook.com/marina silva",
+		"avatar_url": "https://www.leisureopportunities.co.uk/images/300126_701411.jpg"
+	},
+	{
+		"nome": "Bitolomeu Jr",
+		"telefone": "7599237555",
+		"email": "pitolomeujrpereira@hotmail.com",
+		"instagram": "https://instagram.com/Pitolomeu_jr",
+		"facebook": "https://facebook.com/Pitolomeu",
+		"avatar_url": "https://i.imgur.com/yW0v5EP.jpg"
+	},
+	{
+		"nome": "Jucelino Oliveira",
+		"telefone": "75992312576",
+		"email": "jucelinooliveira45@hotmail.com",
+		"instagram": "https://instagram.com/jucelino_oliveira",
+		"facebook": "https://facebook.com/Jucelino",
+		"avatar_url": "https://i.imgur.com/6BAnXeq.jpg"
+	},
+
+	{
+		"nome": "Gilberta Novaes",
+		"telefone": "75971657572",
+		"email": "gilbertanovaes312@hotmail.com",
+		"instagram": "https://instagram.com/gilberta_novaes",
+		"facebook": "https://facebook.com/gilbertanovaes",
+		"avatar_url": "https://totalmilhas.com.br/wp-content/uploads/2017/11/Nguyen-Mai-Linh_7944_160330-8x5.5cc.jpg"
+	}
+]
